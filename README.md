@@ -1,4 +1,4 @@
-# UKRoadAccidentAnalysis #
+# UK Road Accident Analysis @ Power BI #
 Created a dashboard to analyze UK road accidents for the years 2021 and 2022 
 
 <img width="1180" alt="UKRoadAccidentAnalysis" src="https://github.com/petersunmk/UKRoadAccidentAnalysis/assets/90821383/a19ae2de-cb21-4d01-b965-c3b7e45f0e53">
