@@ -8,7 +8,9 @@ The Power BI project involved gathering requirements from stakeholders, connecti
 
 Used DAX functions to calculate YTD (Year to Date) and YoY (Year To Year) growth, and generated insights through data visualization and chart design. The dashboard provided insight into key performance indicators such as total casualties, total accidents, casualties by accident severity, vehicle type, road type, area/location, and time of day based on different options of weather conditions and road surface.  
 
-Dataset Link:https://docs.google.com/spreadsheets/d/19aN2yNRZISld-T06oHX9vTihsKpmhefN5dQRAxgsc4A/edit#gid=1350778168  
 Dashboard Sharelink: https://app.powerbi.com/links/2DOrgnGx5e?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare
+
+Dataset Link:https://docs.google.com/spreadsheets/d/19aN2yNRZISld-T06oHX9vTihsKpmhefN5dQRAxgsc4A/edit#gid=1350778168  
+
 
 
